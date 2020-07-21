@@ -28,4 +28,8 @@ git remote add origin https://github.com/yichunzhao/demo-deploy-heroku.git
 
 git push heroku master
 
+## Reqest to heroku
+
+https://fierce-basin-30910.herokuapp.com/hello
+
 
