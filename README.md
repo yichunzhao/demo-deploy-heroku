@@ -10,7 +10,8 @@ Create an heroku applicatoin from CLI
 command: heroku create
 
 Creating app... done, ⬢ fierce-basin-30910
-https://fierce-basin-30910.herokuapp.com/ | https://git.heroku.com/fierce-basin-30910.git
+https://fierce-basin-30910.herokuapp.com/ | 
+https://git.heroku.com/fierce-basin-30910.git
 
 ## Application local 
 git init
